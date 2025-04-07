@@ -1,0 +1,7 @@
+
+streamlit
+openai
+yfinance
+pandas
+numpy
+talib
